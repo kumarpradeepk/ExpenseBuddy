@@ -1,4 +1,4 @@
-package kumar.pradeep.expensebuddy.feature.presentation
+package java.kumar.pradeep.expensebuddy.feature.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
